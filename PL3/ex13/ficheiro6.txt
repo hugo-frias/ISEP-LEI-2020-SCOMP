@@ -1,0 +1,1 @@
+processos são por vezes executados concorrentemente, usando memoria 1

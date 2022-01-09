@@ -1,0 +1,1 @@
+O código aparenta estar mais ou menos o que foi pedido, porêm está a dar um erro de segmentation fault que entretanto não consegui resolver

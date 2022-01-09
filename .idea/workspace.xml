@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5caa763c-d8df-4230-8186-c4357adf87b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pl1.c" beforeDir="false" afterPath="$PROJECT_DIR$/pl1.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="UPThKHXv" />
+  </component>
+  <component name="ProjectId" id="1YX3pONnNPyHsM5GkpzslBedSSB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../[R] Notes ®/686AD74F7C54CDF64ED46EE4B4E5A5B3.md" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5caa763c-d8df-4230-8186-c4357adf87b5" name="Default Changelist" comment="" />
+      <created>1583075294641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583075294641</updated>
+      <workItem from="1583075302723" duration="122000" />
+      <workItem from="1583075493603" duration="326000" />
+      <workItem from="1583075841097" duration="177000" />
+      <workItem from="1583076044872" duration="872000" />
+      <workItem from="1583610918754" duration="117000" />
+      <workItem from="1583611677302" duration="81000" />
+      <workItem from="1583611772776" duration="65761000" />
+      <workItem from="1584139653176" duration="27000" />
+      <workItem from="1584228439094" duration="87000" />
+      <workItem from="1584228828911" duration="45000" />
+      <workItem from="1584273864203" duration="88000" />
+      <workItem from="1584446373708" duration="149000" />
+      <workItem from="1584446700689" duration="26000" />
+      <workItem from="1584446849460" duration="18000" />
+      <workItem from="1584446887897" duration="654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="703" y="228" key="#Notifications" timestamp="1584228843803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="228" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1584228843803" />
+    <state x="552" y="161" key="#Plugins" timestamp="1584446865949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1584446865949" />
+    <state x="726" y="387" key="#Updates" timestamp="1584228495155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="726" y="387" key="#Updates/0.0.1920.1040@0.0.1920.1040" timestamp="1584228495155" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584273924377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584273924377" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583075534566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583075534566" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584446911042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584446911042" />
+  </component>
+</project>
